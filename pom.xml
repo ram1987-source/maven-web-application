@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <url>http://ec2-3-17-131-153.us-east-2.compute.amazonaws.com:8081/repository/visarepo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <url>http://ec2-3-17-131-153.us-east-2.compute.amazonaws.com:8081/repository/visasnapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
